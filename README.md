@@ -1,1 +1,1 @@
-# Neuro-Navigator
+# Neuro-Explorer : A BCI Odessey
