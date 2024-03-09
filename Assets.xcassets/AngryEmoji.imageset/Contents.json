@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "AngryEmoji.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
